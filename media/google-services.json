@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "527244486949",
+    "firebase_url": "https://ai-beauty-e938b-default-rtdb.firebaseio.com",
+    "project_id": "ai-beauty-e938b",
+    "storage_bucket": "ai-beauty-e938b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527244486949:android:db8ef943f6cfe4047992cc",
+        "android_client_info": {
+          "package_name": "aibeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVi6xWc_KEAynG-e3xZQmMJQb79i0888"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
